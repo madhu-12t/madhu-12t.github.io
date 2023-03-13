@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhu</h1>
-<imgsrc="https://giphy.com/embed/ITRemFlr5tS39AzQUL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/network-technologies-connectivity-ITRemFlr5tS39AzQUL">via GIPHY</a></p>
+<imgsrc="https://giphy.com/embed/ITRemFlr5tS39AzQUL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<p><a href="https://giphy.com/gifs/network-technologies-connectivity-ITRemFlr5tS39AzQUL"></p>
 <h3 align="center">A passionate ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhu-12t&label=Profile%20views&color=0e75b6&style=flat" alt="madhu-12t" /> </p>
