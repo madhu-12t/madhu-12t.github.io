@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7e/00/d6/7e00d6514d0556b617001d5fe0a62663.gif" style="width:500px;">
+</p>
 <h1 align="center">Hi 👋, I'm Madhu</h1>
 <h3 align="center">A passionate ML enthusiast from India</h3>
 
